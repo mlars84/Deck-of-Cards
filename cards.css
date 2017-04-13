@@ -1,0 +1,35 @@
+a {
+  color: navy;
+  font-family: monospace;
+}
+body {
+  font-family: monospace;
+  background-color: #F5FAFA;
+}
+
+.card {
+  font-family: monospace;
+  color: white;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  font-size: 480%;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.spades {
+  background-image: url('imgages/spades.png');
+}
+
+.clubs {
+  background-image: url('imgages/clubs.png');
+}
+
+.diamonds {
+  background-image: url('imgages/diamonds.png');
+}
+
+.hearts {
+  background-image: url('imgages/hearts.png');
+}
